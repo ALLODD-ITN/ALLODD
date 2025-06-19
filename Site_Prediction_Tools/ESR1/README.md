@@ -1,4 +1,6 @@
-# ALLODD 
 ## ESR 1 - Francho Nerin Fonz
-A machine learnin model for allosteric site prediction
-
+### AlloPocket
+A machine learning model for allosteric site prediction.
+Supervisor: Zoe Cournia
+####References:
+- Francho Nerín-Fonz, Zoe Cournia, "Machine learning approaches in predicting allosteric sites" <I>Curr. Opin. Struct. Biol.</I> 85,<B>2024</B>, 102774
