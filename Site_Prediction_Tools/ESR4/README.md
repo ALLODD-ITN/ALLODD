@@ -5,6 +5,7 @@ Python scripts to calculate experimental and theoretical FRET efficiencies to ai
 --- This repository is currently private, but it will be made openly available upon publication ---
 
 Supervisor: Carles E. Curutchet
+
 Beneficiary: University of Barcelona, Spain.  
 
 ### References
