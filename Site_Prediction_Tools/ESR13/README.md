@@ -2,7 +2,7 @@
 ### 
 A collection of software tools for allosteric site prediction.
 
-Supervisor: Vineet Pande
+Supervisor: Herman Van Vlijmen and Vineet Pande
 Beneficiary: Johnson&Johnson Innovative Medicine, Belgium.  
 
 ### References
