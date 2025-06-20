@@ -1,3 +1,6 @@
 [submodule "Site_Prediction_Tools/ESR1/AlloPockets"]
 	path = Site_Prediction_Tools/ESR1/AlloPockets
 	url = https://github.com/zoecournia/AlloPockets
+[submodule "Site_Prediction_Tools/ESR4/FRET_tools"]
+	path = Site_Prediction_Tools/ESR4/FRET_tools
+	url = https://github.com/CompPhotoLab-bcn/FRET_tools
