@@ -4,3 +4,6 @@
 [submodule "Site_Prediction_Tools/ESR4/FRET_tools"]
 	path = Site_Prediction_Tools/ESR4/FRET_tools
 	url = https://github.com/CompPhotoLab-bcn/FRET_tools
+[submodule "Site_Prediction_Tools/ESR3/MAS"]
+	path = Site_Prediction_Tools/ESR3/MAS
+	url = git@github.com:CBDD/mas.git
