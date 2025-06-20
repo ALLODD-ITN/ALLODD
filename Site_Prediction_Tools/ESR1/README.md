@@ -3,6 +3,7 @@
 A machine learning model for allosteric site prediction.
 
 Supervisor: Zoe Cournia
+
 Beneficiary: Biomedical Research Foundation Academy of Athens (BRFAA), Greece.  
 
 ### References
