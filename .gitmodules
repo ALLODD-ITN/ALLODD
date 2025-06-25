@@ -1,4 +1,4 @@
-[submodule "Site_Prediction_Tools/ESR1/AlloPockets"]
+[submodule "Site_Prediction_Tools/AlloPockets_an_ML_model_for_allosteric_site_prediction/AlloPockets"]
 	path = Site_Prediction_Tools/AlloPockets_an_ML_model_for_allosteric_site_prediction/AlloPockets
 	url = https://github.com/zoecournia/AlloPockets
 [submodule "Site_Prediction_Tools/ESR4/FRET_tools"]
