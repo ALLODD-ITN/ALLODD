@@ -1,9 +1,9 @@
 [submodule "Site_Prediction_Tools/AlloPockets_an_ML_model_for_allosteric_site_prediction/AlloPockets"]
 	path = Site_Prediction_Tools/AlloPockets_an_ML_model_for_allosteric_site_prediction/AlloPockets
 	url = https://github.com/zoecournia/AlloPockets
-[submodule "Site_Prediction_Tools/ESR4/FRET_tools"]
-	path = Site_Prediction_Tools/ESR4/FRET_tools
+[submodule "Site_Prediction_Tools/Python_scripts_to_calculate_experimental_and_theoretical_FRET_efficiencies_to_aid_in_the_identification_of_allosteric_pockets/FRET_tools"]
+	path = Site_Prediction_Tools/Python_scripts_to_calculate_experimental_and_theoretical_FRET_efficiencies_to_aid_in_the_identification_of_allosteric_pockets/FRET_tools
 	url = https://github.com/CompPhotoLab-bcn/FRET_tools
-[submodule "Site_Prediction_Tools/ESR3/MAS"]
-	path = Site_Prediction_Tools/ESR3/MAS
+[submodule "Site_Prediction_Tools/A_python_package_for_the_application_of_MAS_approach_for_the_identification_of_allosteric_pockets_and_the_elucidation_of_binding-modes_of_small_molecules/MAS"]
+	path = Site_Prediction_Tools/A_python_package_for_the_application_of_MAS_approach_for_the_identification_of_allosteric_pockets_and_the_elucidation_of_binding-modes_of_small_molecules/MAS
 	url = git@github.com:CBDD/mas.git
