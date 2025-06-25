@@ -1,5 +1,5 @@
 ## ESR 1 - Francho Nerin Fonz
-### AlloPocket
+### AlloPockets
 A machine learning model for allosteric site prediction.
 
 Supervisor: Zoe Cournia
