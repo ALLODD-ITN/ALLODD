@@ -1,0 +1,3 @@
+[submodule "Site_Prediction_Tools/AlloPockets_ML_Site_Prediction/AlloPockets"]
+	path = Site_Prediction_Tools/AlloPockets_ML_Site_Prediction/AlloPockets
+	url = https://github.com/zoecournia/AlloPockets
