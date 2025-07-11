@@ -4,3 +4,6 @@
 [submodule "Site_Prediction_Tools/Cholesterol_Hotspot_Detection_Tool/HSDetector"]
 	path = Site_Prediction_Tools/Cholesterol_Hotspot_Detection_Tool/HSDetector
 	url = https://github.com/Urbino-CAMD-Lab/HSDetector
+[submodule "Ligand_ID_and_Opt_Tools/Binding_Free_Energy_Workflows/free_energy_workflows"]
+	path = Ligand_ID_and_Opt_Tools/Binding_Free_Energy_Workflows/free_energy_workflows
+	url = https://github.com/hryhory-sinenka/free_energy_workflows/
