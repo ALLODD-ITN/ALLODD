@@ -1,3 +1,6 @@
 [submodule "Site_Prediction_Tools/AlloPockets_ML_Site_Prediction/AlloPockets"]
 	path = Site_Prediction_Tools/AlloPockets_ML_Site_Prediction/AlloPockets
 	url = https://github.com/zoecournia/AlloPockets
+[submodule "Site_Prediction_Tools/Cholesterol_Hotspot_Detection_Tool/HSDetector"]
+	path = Site_Prediction_Tools/Cholesterol_Hotspot_Detection_Tool/HSDetector
+	url = https://github.com/Urbino-CAMD-Lab/HSDetector
