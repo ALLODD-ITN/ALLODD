@@ -1,5 +1,5 @@
-[submodule "Site_Prediction_Tools/AlloPockets_ML_Site_Prediction/AlloPockets"]
-	path = Site_Prediction_Tools/AlloPockets_ML_Site_Prediction/AlloPockets
+[submodule "Site_Prediction_Tools/AlloPockets_ML_Site_Prediction_ESR1/AlloPockets"]
+	path = Site_Prediction_Tools/AlloPockets_ML_Site_Prediction_ESR1/AlloPockets
 	url = https://github.com/zoecournia/AlloPockets
 [submodule "Site_Prediction_Tools/Cholesterol_Hotspot_Detection_Tool/HSDetector"]
 	path = Site_Prediction_Tools/Cholesterol_Hotspot_Detection_Tool/HSDetector
