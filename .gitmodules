@@ -2,7 +2,7 @@
 	path = Site_Prediction_Tools/AlloPockets_ML_Site_Prediction_ESR1/AlloPockets
 	url = https://github.com/zoecournia/AlloPockets.git
 [submodule "Site_Prediction_Tools/Cholesterol_Hotspot_Detection_Tool/HSDetector"]
-	path = Site_Prediction_Tools/Cholesterol_Hotspot_Detection_Tool/HSDetector
+	path = Site_Prediction_Tools/Cholesterol_Hotspot_Detection_Tool_ESR14/HSDetector
 	url = https://github.com/Urbino-CAMD-Lab/HSDetector
 [submodule "Ligand_ID_and_Opt_Tools/Binding_Free_Energy_Workflows/free_energy_workflows"]
 	path = Ligand_ID_and_Opt_Tools/Binding_Free_Energy_Workflows/free_energy_workflows
