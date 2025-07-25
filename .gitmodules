@@ -10,3 +10,6 @@
 [submodule "Site_Prediction_Tools/MAS_Tool_for_Allosteric_Pockets_ESR3/MAS"]
 	path = Site_Prediction_Tools/MAS_Tool_for_Allosteric_Pockets_ESR3/MAS
 	url = git@github.com:CBDD/mas.git
+[submodule "Site_Prediction_Tools/FRET_Efficiency_Scripts_Allosteric_Pockets_ESR4/FRET_tools"]
+	path = Site_Prediction_Tools/FRET_Efficiency_Scripts_Allosteric_Pockets_ESR4/FRET_tools
+	url = git@github.com:CompPhotoLab-bcn/FRET_tools.git
